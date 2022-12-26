@@ -1,16 +1,30 @@
-### Hi there 👋
+## 개발자 허남준입니다!
 
-<!--
-**nheo9143/nheo9143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+### 📫 How to reach me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:namjun1084@gmail.com)](namjun1084@gmail.com)
 
-Here are some ideas to get you started:
+### 📖 My Experience
++ University of Seoul, Urban Sociology (2015/03 ~ )
++ 42Seoul La Piscine (2021/09/06 ~ 2021/10/01)
++ 42Seoul Cadet (2021/11/08 ~ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Project
++ [💬42byte](https://github.com/blind-42/42byte) | https://42byte.kr
++ [🏓42gg](https://github.com/42organization/42arcade.gg.client) | https://42gg.kr/ | https://softwave.42gg.kr
+
+
+### 🛠 Tech Stack
+<span>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring_boot&logoColor=white">
+<img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=spring_security&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/apache_tomcat-F8DC75?style=for-the-badge&logo=apache_tomcat&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+</span>
