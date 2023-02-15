@@ -2,7 +2,7 @@
 
   
 ### 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:namjun1084@gmail.com)](namjun1084@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:namjun1084@gmail.com)](mailto:namjun1084@gmail.com)
 
 ### 📖 My Experience
 + University of Seoul, Urban Sociology (2015/03 ~ )
