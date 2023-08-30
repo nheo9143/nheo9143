@@ -11,7 +11,7 @@
 
 ### 🎯 Project
 + [💬42byte](https://github.com/blind-42/42byte) | https://42byte.kr
-+ [🏓42gg](https://github.com/42organization/42arcade.gg.client) | https://42gg.kr/ | https://softwave.42gg.kr
++ [🏓42gg - github](https://github.com/42organization/42gg.server.dev) | https://42gg.kr/ | https://softwave.42gg.kr
 
 ### 🛠 Tech Stack
 <span>
@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring_boot&logoColor=white">
 <img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=spring_security&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  
 <br/>
 <img src="https://img.shields.io/badge/apache_tomcat-F8DC75?style=for-the-badge&logo=apache_tomcat&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
