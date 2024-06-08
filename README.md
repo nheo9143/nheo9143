@@ -8,6 +8,7 @@
 + University of Seoul, Urban Sociology (2015/03 ~ )
 + 42Seoul La Piscine (2021/09/06 ~ 2021/10/01)
 + 42Seoul Cadet (2021/11/08 ~ )
++ GameDuo Server Developer (2023/11/02 ~ )
 
 ### 🎯 Project
 + [💬42byte](https://github.com/blind-42/42byte) | https://42byte.kr
